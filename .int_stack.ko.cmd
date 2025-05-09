@@ -1,0 +1,1 @@
+savedcmd_/home/dpttk/uni/linux/LinuxLab4-5/int_stack.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o /home/dpttk/uni/linux/LinuxLab4-5/int_stack.ko /home/dpttk/uni/linux/LinuxLab4-5/int_stack.o /home/dpttk/uni/linux/LinuxLab4-5/int_stack.mod.o

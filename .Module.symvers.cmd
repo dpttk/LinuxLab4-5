@@ -1,0 +1,1 @@
+savedcmd_/home/dpttk/uni/linux/LinuxLab4-5/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/dpttk/uni/linux/LinuxLab4-5/Module.symvers -T /home/dpttk/uni/linux/LinuxLab4-5/modules.order -i Module.symvers -e 
