@@ -12,7 +12,7 @@ Optional module parameters:
 
 Example:
 ```bash
-sudo insmod int_stack.ko default_capacity=32 enable_auto_resize=1
+sudo insmod int_stack.ko default_capacity=32 enable_auto_resize=0
 ```
 
 ## Usage

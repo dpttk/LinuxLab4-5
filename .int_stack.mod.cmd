@@ -1,1 +1,0 @@
-savedcmd_/home/dpttk/uni/linux/LinuxLab4-5/int_stack.mod := printf '%s\n'   int_stack.o | awk '!x[$$0]++ { print("/home/dpttk/uni/linux/LinuxLab4-5/"$$0) }' > /home/dpttk/uni/linux/LinuxLab4-5/int_stack.mod
